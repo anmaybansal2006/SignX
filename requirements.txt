@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+scikit-learn
+streamlit
+googletrans==4.0.0-rc1
+numpy
+pandas
+pillow
+gTTS
+pyttsx3
